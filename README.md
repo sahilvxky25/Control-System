@@ -10,7 +10,7 @@ This repository includes topic-wise live scripts such as:
 - Time and frequency response (`Time Response.mlx`, `Bode Plot.mlx`, `Nyquist Plot.mlx`)
 - Stability and design methods (`Routh-Hurwitz Criterion.mlx`, `Root Locus.mlx`, `Compensator.mlx`, `PID.mlx`)
 - System representation (`Signal Flow Graph.mlx`, `Zeros and Poles.mlx`, `Block Reduction.mlx`)
-- Practical process/simulator studies (`OVEN.mlx`, `P H Simulator.mlx`, `Pressure Process Control.mlx`, `Digital Control Trainer.mlx`, `Linear System Simulator.mlx`)
+- Practical process/simulator studies (`OVEN.mlx`, `P H Simulator.mlx` for pH simulation, `Pressure Process Control.mlx`, `Digital Control Trainer.mlx`, `Linear System Simulator.mlx`)
 
 ## Prerequisites
 
